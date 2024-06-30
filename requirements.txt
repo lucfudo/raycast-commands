@@ -1,0 +1,2 @@
+pyperclip~=1.9.0
+langchain-community==0.2.6
