@@ -23,7 +23,6 @@ except ImportError as e:
     sys.exit(1)
 
 user_input = pyperclip.paste()
-print(user_input)
 
 ollama = Ollama(
     base_url='http://localhost:11434',
