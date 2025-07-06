@@ -1,4 +1,4 @@
-#!./.venv-raycast/bin/python
+#!./raycast/bin/python
 
 # Required parameters:
 # @raycast.schemaVersion 1
@@ -23,7 +23,7 @@ except ImportError as e:
     sys.exit(1)
 
 user_input = pyperclip.paste()
-
+# user_input = "on mac, how to change icon of a folder?"
 ollama = Ollama(
     base_url='http://localhost:11434',
     model="llama3"

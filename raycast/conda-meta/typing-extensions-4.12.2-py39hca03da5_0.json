@@ -1,0 +1,32 @@
+{
+  "build": "py39hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0",
+    "typing_extensions 4.12.2 py39hca03da5_0"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/typing-extensions-4.12.2-py39hca03da5_0",
+  "files": [],
+  "fn": "typing-extensions-4.12.2-py39hca03da5_0.conda",
+  "license": "PSF-2.0",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/typing-extensions-4.12.2-py39hca03da5_0",
+    "type": 1
+  },
+  "md5": "4d3800d8bb5ecb315aeecc9605d71360",
+  "name": "typing-extensions",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/typing-extensions-4.12.2-py39hca03da5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "20c634a8380aaa540b132363f129f8395f3a9c3acbeb5990611630647302f034",
+  "size": 10265,
+  "subdir": "osx-arm64",
+  "timestamp": 1734714929000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/typing-extensions-4.12.2-py39hca03da5_0.conda",
+  "version": "4.12.2"
+}

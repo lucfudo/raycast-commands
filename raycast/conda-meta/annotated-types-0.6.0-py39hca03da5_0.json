@@ -1,0 +1,129 @@
+{
+  "build": "py39hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.9,<3.10.0a0"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/annotated-types-0.6.0-py39hca03da5_0",
+  "files": [
+    "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+    "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/METADATA",
+    "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/RECORD",
+    "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+    "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+    "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+    "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+    "lib/python3.9/site-packages/annotated_types/__init__.py",
+    "lib/python3.9/site-packages/annotated_types/__pycache__/__init__.cpython-39.pyc",
+    "lib/python3.9/site-packages/annotated_types/__pycache__/test_cases.cpython-39.pyc",
+    "lib/python3.9/site-packages/annotated_types/py.typed",
+    "lib/python3.9/site-packages/annotated_types/test_cases.py"
+  ],
+  "fn": "annotated-types-0.6.0-py39hca03da5_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/annotated-types-0.6.0-py39hca03da5_0",
+    "type": 1
+  },
+  "md5": "0ecbc55d62c6fc6e9d6c43abfeee071a",
+  "name": "annotated-types",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/annotated-types-0.6.0-py39hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "efc61eaee4f76ff76887c4dbb0aeea71ba98e1cbc2333fd041108651bc80a3a3",
+        "sha256_in_prefix": "efc61eaee4f76ff76887c4dbb0aeea71ba98e1cbc2333fd041108651bc80a3a3",
+        "size_in_bytes": 12879
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a3d80d2955d88a2234342245d87523401360623b9768f1756e95f54fcf7ecb03",
+        "sha256_in_prefix": "a3d80d2955d88a2234342245d87523401360623b9768f1756e95f54fcf7ecb03",
+        "size_in_bytes": 1000
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "sha256_in_prefix": "4c93e729db6b4ae7bbc59fc0546929f585dcbc3ae86ec8c176cd5dbb7371e9d7",
+        "size_in_bytes": 87
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6042afaaab6b793d5aaf0ed7ce2bf9b67ce8bc2cff960571d95a9406419252ca",
+        "sha256_in_prefix": "6042afaaab6b793d5aaf0ed7ce2bf9b67ce8bc2cff960571d95a9406419252ca",
+        "size_in_bytes": 146
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types-0.6.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "fe1049884b1a0d9342901e88e07f32925d24b3121d9972b6a6805fb9824b095d",
+        "sha256_in_prefix": "fe1049884b1a0d9342901e88e07f32925d24b3121d9972b6a6805fb9824b095d",
+        "size_in_bytes": 1083
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "b712e846df224a201cf92bb7edeb16a4c234c058cdf7657b804e4774521e78a2",
+        "sha256_in_prefix": "b712e846df224a201cf92bb7edeb16a4c234c058cdf7657b804e4774521e78a2",
+        "size_in_bytes": 12151
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "0f86dd65ede6d846856708ac41cdc7bf2d6fee353cd6e1362c4414c75fcdf3c3",
+        "sha256_in_prefix": "0f86dd65ede6d846856708ac41cdc7bf2d6fee353cd6e1362c4414c75fcdf3c3",
+        "size_in_bytes": 13291
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types/__pycache__/test_cases.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "69629d02847b9e64bac7e33631be75b21b52610067b8207f166e337a69616944",
+        "sha256_in_prefix": "69629d02847b9e64bac7e33631be75b21b52610067b8207f166e337a69616944",
+        "size_in_bytes": 5513
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.9/site-packages/annotated_types/test_cases.py",
+        "path_type": "hardlink",
+        "sha256": "2df172511670afb5f73557e80ab49748c3314f1243e28f17cfe63ca9b998ec95",
+        "sha256_in_prefix": "2df172511670afb5f73557e80ab49748c3314f1243e28f17cfe63ca9b998ec95",
+        "size_in_bytes": 6327
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "330f7ce6fd9ac9d5663f530759eab7568f7138f718e15a2e7e211fa8290e08ce",
+  "size": 23908,
+  "subdir": "osx-arm64",
+  "timestamp": 1709542973000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/annotated-types-0.6.0-py39hca03da5_0.conda",
+  "version": "0.6.0"
+}
